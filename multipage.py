@@ -18,7 +18,7 @@ class MultiPage:
         #st.sidebar.title("Grind Master")
         page = st.logo("bisalloy.png")
         page = st.sidebar.image("amman.png", width=120)
-        page = st.sidebar.header("Schlam Smart Tray Monitoring")
+        #page = st.sidebar.header("Schlam Smart Tray Monitoring")
         page = st.sidebar.header(":rainbow[Bisalloy Digital Wear Fusion App]")
         page = st.sidebar.image("mill.png", width=240)
         page = st.sidebar.header("***Next Gen Truck Tray Intelligence***", divider='gray')
